@@ -14107,7 +14107,7 @@ const timer = () => {
   }
   bindTimer({
     timerId: "timer",
-    expDate: "2025-08-31:14:14"
+    expDate: "2025-09-31:14:14"
   });
 };
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (timer);
