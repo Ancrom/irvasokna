@@ -41,7 +41,7 @@ const timer = () => {
 
   bindTimer({
     timerId: "timer",
-    expDate: "2025-08-31:14:14",
+    expDate: "2025-09-31:14:14",
   });
 };
 
